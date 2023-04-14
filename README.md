@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Aayushkumartyagi/Aayushkumartyagi/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aayush Tyagi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
