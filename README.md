@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aayushtyagi6004@gmail.com**
 
-- 📄 Know about my experiences : https://bit.ly/3A0qZD8
+- 📄 Know about my experiences : https://bit.ly/43GTIu7
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
